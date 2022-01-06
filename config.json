@@ -1,0 +1,6 @@
+{
+    "individual_delay": 5	,
+    "rate_limit_delay": 650,
+    "offset": 30000,
+    "skip_completed": true
+}
